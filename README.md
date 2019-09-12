@@ -8,6 +8,8 @@ WriterCLI allows:
 * "dangling links" to be automatically filled when the linked-to document is made
 * Simple HTML links to be created between "blog posts" of known format
 
-
 Requirements:
 * Zim (http://zim-wiki.org/)
+
+
+This is planned to later form the foundation of a blogging experience, wheri you are able to share your personal wiki with the world!
